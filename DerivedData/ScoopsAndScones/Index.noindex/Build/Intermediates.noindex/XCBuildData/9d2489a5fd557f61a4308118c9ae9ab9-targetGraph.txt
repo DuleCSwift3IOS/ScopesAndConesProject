@@ -1,0 +1,8 @@
+Target dependency graph (5 targets)
+ScoopsAndScones in ScoopsAndScones, no dependencies
+ScoopsAndScones in ScoopsAndScones, no dependencies
+ScoopsAndSconesTests in ScoopsAndScones, depends on:
+ScoopsAndScones in ScoopsAndScones (explicit)
+ScoopsAndSconesTests in ScoopsAndScones, depends on:
+ScoopsAndScones in ScoopsAndScones (explicit)
+ScoopsAndSconesTests in ScoopsAndScones, no dependencies

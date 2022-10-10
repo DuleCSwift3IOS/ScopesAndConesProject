@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "852c29b741715138efd0560c49b6e8e2e649d01f32ee9b7208561d2a68a5d768"
+    }
+  ],
+  "containerPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData/ScoopsAndScones/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData/ScoopsAndScones/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData/ScoopsAndScones/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData/ScoopsAndScones/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData/ScoopsAndScones/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/DerivedData/ScoopsAndScones/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

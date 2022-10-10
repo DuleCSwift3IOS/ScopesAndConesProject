@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA5B8D89-20AB-4DE7-BB12-26DB8D8EB39F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "CreateIceCreamView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - 4157d95e4f8e9a08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScoopsAndScones.CreateIceCreamView.iceCream.getter : ScoopsAndScones.IceCreamDataStore"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - 250d53220270bb0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ScoopsAndScones.CreateIceCreamView.iceCream : ScoopsAndScones.IceCreamDataStore"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - a4ceac44b1116efc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScoopsAndScones.CreateIceCreamView.iceCream.setter : ScoopsAndScones.IceCreamDataStore"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - 9e002b68a1cc010d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScoopsAndScones.CreateIceCreamView.iceCream.modify : ScoopsAndScones.IceCreamDataStore"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - 5bcc64af9084f8d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScoopsAndScones.CreateIceCreamView.iceCream.modify : ScoopsAndScones.IceCreamDataStore with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - e4a26e1a40c22139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScoopsAndScones.CreateIceCreamView.$iceCream.getter : SwiftUI.ObservedObject&lt;ScoopsAndScones.IceCreamDataStore&gt;.Wrapper"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "FC0A2455-10C0-4693-8349-431C5EF3915C - 4f86b51d83d09a35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScoopsAndScones.CreateIceCreamView.init() -&gt; ScoopsAndScones.CreateIceCreamView"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "441B79BD-054A-42B0-827A-99AB9DBD189F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "441B79BD-054A-42B0-827A-99AB9DBD189F - 7218b9c9b5d2d187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "441B79BD-054A-42B0-827A-99AB9DBD189F - 14fe940c99d88268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB85D637-F7EF-4DD0-A3D4-841C297EF811"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AB85D637-F7EF-4DD0-A3D4-841C297EF811 - 14fe940c99d8824f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "AB85D637-F7EF-4DD0-A3D4-841C297EF811 - 43bcafc4ee388857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2DCD0F9-8622-40C4-8FC4-09A819B00E4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A2DCD0F9-8622-40C4-8FC4-09A819B00E4B - 43bcafc4ee388836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "A2DCD0F9-8622-40C4-8FC4-09A819B00E4B - 224d7b8b310e2b4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F8F9853-A2FF-410C-9B24-44F900623B94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6F8F9853-A2FF-410C-9B24-44F900623B94 - 224d7b8b310e2b6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "6F8F9853-A2FF-410C-9B24-44F900623B94 - c9a09ccb29f25354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86B042DB-FA4B-4CA9-BF41-24570EF40189"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FE0D611-6F51-48BF-B107-5F27AA841842"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7FE0D611-6F51-48BF-B107-5F27AA841842 - 43bcafc4ee388f69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "7FE0D611-6F51-48BF-B107-5F27AA841842 - 5b04f4e3b37e9611"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D8A4794-D831-41D1-8648-863B9E5C8680"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3D8A4794-D831-41D1-8648-863B9E5C8680 - 5b04f4e3b37e9630"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "3D8A4794-D831-41D1-8648-863B9E5C8680 - c9a09ccb29f25409"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; SwiftUI.Text in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2708397-2AAB-413E-B562-D6E5F9A23516"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED4B9F94-9284-4751-806F-2818AF42B10B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ED4B9F94-9284-4751-806F-2818AF42B10B - 43bcafc4ee388e82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1568">
+               </Location>
+               <Location
+                  uuid = "ED4B9F94-9284-4751-806F-2818AF42B10B - f3dc75da2daff9f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9018C5D-688F-437B-8719-5E1405F9F06D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A9018C5D-688F-437B-8719-5E1405F9F06D - f3dc75da2daff916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "A9018C5D-688F-437B-8719-5E1405F9F06D - c9a09ccb29f25520"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; SwiftUI.Text in closure #3 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BAE20A0-1B6F-42D3-8C8A-EFEC2CEF1400"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "653063EC-1639-4EE6-83FA-66C3CE3698F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "764CEF4D-7424-433A-AF5C-E60B039632EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "764CEF4D-7424-433A-AF5C-E60B039632EE - 14fe940c99d88761"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "764CEF4D-7424-433A-AF5C-E60B039632EE - f5dc676f41f72dd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "838EE96E-DD82-4D5B-9773-268F1D7CB1F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24A70EDD-F235-4B24-A055-2904BDDCA4BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DDCB8F5-D5C6-449B-928C-8F1B59E1BC68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8DDCB8F5-D5C6-449B-928C-8F1B59E1BC68 - 7218b9c9b5d2c8ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "8DDCB8F5-D5C6-449B-928C-8F1B59E1BC68 - 10c5f4135d3b3706"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0740E098-88C0-4D08-8352-43A41C5A2636"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9801C8C1-C8E7-46A2-87E4-A2ADFF05E060"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "685F7C31-8723-4F9D-BCC5-0A27AAB44163"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "685F7C31-8723-4F9D-BCC5-0A27AAB44163 - 43bcafc4ee388dc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2632">
+               </Location>
+               <Location
+                  uuid = "685F7C31-8723-4F9D-BCC5-0A27AAB44163 - c255768834c9dcef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.Picker&lt;SwiftUI.Text, Swift.String, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, ScoopsAndScones.CreateIceCreamImageView, SwiftUI.EmptyView&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in ScoopsAndScones.CreateIceCreamView.body.getter : some"
+                  moduleName = "ScoopsAndScones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dushkocizaloski/Downloads/Clean_Swift_VIP_Materials/starter/ScoopsAndScones/Domain/IceCream/Scenes/CreateIceCream/CreateIceCreamView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
