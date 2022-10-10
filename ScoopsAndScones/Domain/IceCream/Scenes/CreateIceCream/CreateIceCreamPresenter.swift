@@ -38,6 +38,7 @@ protocol CreateIceCreamPresentationLogic {
 
 class CreateIceCreamPresenter {
   var view: CreateIceCreamDisplayLogic?
+  var newComponent = ""
 }
 
 extension CreateIceCreamPresenter: CreateIceCreamPresentationLogic {
